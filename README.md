@@ -19,59 +19,53 @@ Máquina operada por CNC diseñada para dispensar pasta de soldadura en componen
 - Optimización del mantenimiento
 - Reducción de tareas manuales-->
 
----
-
 ## Tecnologías utilizadas / Technologies
 
-### Lenguajes de Programación:
+**Lenguajes de Programación:** *`Python`*
+<!--
 - Python
 - VBA
-- SQL
+- SQL -->
 
-### Software:
+**Software:** *`Solid Works`*
+<!--
 - AutoCAD
 - SolidWorks
 - Excel
-- AppSheet
+- AppSheet -->
 
-### Hardware:
+**Hardware:** *`Arduino`*, *`Motores paso a paso`*
+<!--
 - Arduino
 - Sensores
-- PLC (si aplica)
+- PLC (si aplica) -->
 
-### Metodologías:
+<!--
+** Metodologías:**
 - Gestión de mantenimiento
 - Mantenimiento preventivo y correctivo
-- Mejora continua
-
----
+- Mejora continua -->
 
 ## Funciones principales / Features
 
-- Función 1
-- Función 2
-- Función 3
-- Función 4
+- Programa para interpretar el código `Gerber` y generar un `G code` (código G).
+- Programa para reconocer puntos de dispensación y generar un `reporte de la presición del trabajo de la máquina`.
+- `Sistema de acoples magnéticos` que permite cambiar herramientas y fijar la pieza a la cama de la máquina de forma sencilla.
+- Estructura de la máquina diseñada para ser fabricada fácilmente mediante `máquinas CNC`, construida en `MDF` (Trupan).
 
 <!--
 Para software → Funciones principales
 Para mecánica/mantenimiento → Alcances del proyecto o Características principales
 -->
 
----
-
-## Process / Enfoque y desarrollo
-
-Resumen del objetivo del proyecto y una breve explicación de cómo se desarrolló la solución.
-
----
-
 ## Implementación / Running the project
 
-1. Paso 1
-2. Paso 2
-3. Paso 3
-4. Paso final
+1. Se necesita un archivo Gerber con el diseño de la PCB, donde es importante solo importar la capa `F_paste`.
+2. Cargar y configurar el programa para generar el `código G`.
+3. Posicionar correctamente la PCB dentro de la máquina.
+4. Ejecutar y esperar a que termine el proceso de dispensación.
+5. `Opcional` Tomar fotos y resaltar los bordes de las pistas y los puntos.
+6. `Opcional` Subir las imágenes y ejecutar el programa para evaluar la calidad de dispensación.
 
 <!--
 En software → pasos técnicos
@@ -81,22 +75,28 @@ En proyectos mecánicos/mantenimiento → pasos de implementación, pruebas o pu
 ---
 
 ## Aprendizajes / What I Learned
-
+- Flujo del proceso para `manufactura de PCB` y `ensamblaje de componentes electrónicos`.
+- Estructura del código Gerber.
+- Estructura del código G.
+- Desarrollo de aplicación en Python con `PyQT5`.
+- Validación del trabajo de dispensación.
+- Estrategia de micro dispensación para un `fluido no-newtoniano`.
+- Diseño y construcción de una máquina CNC.
+<!--
 - Aprendizaje técnico
 - Aprendizaje de ingeniería o mantenimiento
-- Uso de herramientas o metodologías
-
----
+- Uso de herramientas o metodologías -->
 
 ## Posibles mejoras / How can it be improved?
 
-- Mejora 1
-- Mejora 2
-- Escalabilidad u optimización futura
+- Estandarizar y optimizar el proceso de exportación de archivos Gerber.
+- Mejorar la interfaz de programación de la dispensación, incorporando un modo simple e intuitivo y un modo avanzado para usuarios experimentados.
+- Optimizar el diseño de la estructura para reducir la cantidad de piezas, simplificar su fabricación y disminuir el uso de acoples con tornillos.
+- Mejorar y optimizar el sistema de carga de la pasta de soldadura.
+- Realizar pruebas para identificar y ajustar parámetros como temperatura ambiente, temperatura de la pasta, velocidad de dispensación y velocidad de retracción, adaptando el funcionamiento de la máquina según su entorno operativo.
+- Desarrollar un sistema de visión artificial que reconozca los puntos de dispensación y las pistas SMT de la PCB, facilitando la validación de la calidad de la dispensación.
 
----
-
-## Video
+## Video e Imágenes
 
 🎥 **Video de demostración:**  
 [Ver video del proyecto](https://link-del-video)
