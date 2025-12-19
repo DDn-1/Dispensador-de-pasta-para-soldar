@@ -1,28 +1,24 @@
 # Dispensador de pasta para soldar
-
 ---
 
 ## Descripción del proyecto / Project Overview
 
-Descripción breve del proyecto. Explica qué problema se aborda, el objetivo principal y el enfoque general del proyecto.
+Es una máquina operada por CNC, para dispensar pasta para soldar componentes electrónicos SMD (Surface Mount Device). Se busca automatizar de una forma eficiente y económica la dispensación de está pasta para poder soldar los componentes SMD, con el enfoque de incentivar soluciones y al uso de estos componentes electrónicos.
+<!--Descripción breve del proyecto. Explica qué problema se aborda, el objetivo principal y el enfoque general del proyecto.-->
 
----
-
-## Contexto del proyecto:
-
-- Académico
+### Contexto del proyecto: **Académico / Prototipo**
+<!--- Académico
 - Personal
 - Industrial
-- Simulación / Prototipo
+- Simulación / Prototipo-->
 
----
+### Impacto del proyecto: **Automatización**
 
-## Impacto del proyecto:
-
+<!--
 - Mejora en procesos
 - Apoyo a la toma de decisiones
 - Optimización del mantenimiento
-- Reducción de tareas manuales
+- Reducción de tareas manuales-->
 
 ---
 
