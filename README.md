@@ -62,6 +62,7 @@ Máquina operada por CNC diseñada para dispensar pasta de soldadura en componen
 | <img src="https://github.com/user-attachments/assets/9f21b68c-d6fe-499b-b92e-515b5352b938" width="400"/> | <img src="https://github.com/user-attachments/assets/0e8f4a70-b6a3-426a-9dcf-4440dd502983" width="400"/> |
 
 | **Sistema de acople y ajuste de pieza** | **Diseño de estructura SolidWorks** |
+|----------------------|----------------------|
 | <img src="https://github.com/user-attachments/assets/b872a45f-212b-4246-a57f-112f7aa80343" width="400"/> | <img src="https://github.com/user-attachments/assets/25a6f671-77ed-456b-bbb7-8bec12b40010" width="400"/> |
 <!--
 Para software → Funciones principales
