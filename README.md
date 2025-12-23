@@ -109,3 +109,4 @@ En proyectos mecánicos/mantenimiento → pasos de implementación, pruebas o pu
 
 ## Video de Demostración
 
+https://github.com/user-attachments/assets/091bbe88-7f74-4cc7-932c-f22ed30cf583
