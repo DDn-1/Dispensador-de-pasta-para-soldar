@@ -3,6 +3,11 @@
 ## Descripción del proyecto / Project Overview
 
 Máquina operada por CNC diseñada para dispensar pasta de soldadura en componentes electrónicos SMD (Surface Mount Device). El proyecto busca automatizar este proceso de forma eficiente y económica, facilitando la soldadura de componentes SMD y promoviendo el uso de soluciones electrónicas.
+
+|  |  |
+|--|--|
+| <img src="https://github.com/user-attachments/assets/0e8f4a70-b6a3-426a-9dcf-4440dd502983" width="300"/> | <img src="https://github.com/user-attachments/assets/0f1770bc-45aa-4663-8a97-b45ba0944e23" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/38f1c3f6-f83a-4c5d-9b13-c4e64cad4cbb" width="300"/> | <img src="https://github.com/user-attachments/assets/38f1c3f6-f83a-4c5d-9b13-c4e64cad4cbb" width="300"/> |
 | ![Image](https://github.com/user-attachments/assets/0e8f4a70-b6a3-426a-9dcf-4440dd502983) | ![Image](https://github.com/user-attachments/assets/0f1770bc-45aa-4663-8a97-b45ba0944e23) |
 <!--Descripción breve del proyecto. Explica qué problema se aborda, el objetivo principal y el enfoque general del proyecto.-->
 
@@ -57,6 +62,8 @@ Máquina operada por CNC diseñada para dispensar pasta de soldadura en componen
 | **Programa para controlar la máquina** | **Programa para evaluar dispensación** |
 |----------------------|----------------------|
 | ![Image](https://github.com/user-attachments/assets/9f21b68c-d6fe-499b-b92e-515b5352b938) | ![Demo](https://github.com/user-attachments/assets/38f1c3f6-f83a-4c5d-9b13-c4e64cad4cbb) |
+
+
 | **Sistema de acople y ajuste de pieza** | **Diseño de estructura SolidWorks** |
 |----------------------|----------------------|
 | ![Image](https://github.com/user-attachments/assets/b872a45f-212b-4246-a57f-112f7aa80343) | ![Image](https://github.com/user-attachments/assets/25a6f671-77ed-456b-bbb7-8bec12b40010) |
