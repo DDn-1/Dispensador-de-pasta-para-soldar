@@ -59,7 +59,7 @@ Máquina operada por CNC diseñada para dispensar pasta de soldadura en componen
 
 | **Programa para controlar la máquina** | **Programa para evaluar dispensación** |
 |----------------------|----------------------|
-| <img src="https://github.com/user-attachments/assets/9f21b68c-d6fe-499b-b92e-515b5352b938" width="400"/> | <img src="https://github.com/user-attachments/assets/fd2837d2-efa2-40ff-8c7b-317081469714" width="400"/> |
+| <img src="https://github.com/user-attachments/assets/9f21b68c-d6fe-499b-b92e-515b5352b938" width="300"/> | <img src="https://github.com/user-attachments/assets/925a87ed-7cfa-42da-91f1-55f70b8adf6d" width="400"/> |
 
 | **Sistema de acople y ajuste de pieza** | **Diseño de estructura SolidWorks** |
 |----------------------|----------------------|
