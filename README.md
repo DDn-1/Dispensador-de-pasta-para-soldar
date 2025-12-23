@@ -96,10 +96,6 @@ En proyectos mecánicos/mantenimiento → pasos de implementación, pruebas o pu
 - Realizar pruebas para identificar y ajustar parámetros como temperatura ambiente, temperatura de la pasta, velocidad de dispensación y velocidad de retracción, adaptando el funcionamiento de la máquina según su entorno operativo.
 - Desarrollar un sistema de visión artificial que reconozca los puntos de dispensación y las pistas SMT de la PCB, facilitando la validación de la calidad de la dispensación.
 
-## Video e Imágenes
+## Video de Demostración
+[![Demo video](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)]([https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://drive.google.com/drive/folders/13rU0WQjj1lPS8hWEpf_xyFStnFHNPjhs?usp=sharing))
 
-🎥 **Video de demostración:**  
-[Ver video del proyecto](https://link-del-video)
-
-🌐 **Página o documentación relacionada:**  
-[Ver documentación](https://link-del-proyecto)
