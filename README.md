@@ -3,6 +3,7 @@
 ## Descripción del proyecto / Project Overview
 
 Máquina operada por CNC diseñada para dispensar pasta de soldadura en componentes electrónicos SMD (Surface Mount Device). El proyecto busca automatizar este proceso de forma eficiente y económica, facilitando la soldadura de componentes SMD y promoviendo el uso de soluciones electrónicas.
+| ![Image](https://github.com/user-attachments/assets/0e8f4a70-b6a3-426a-9dcf-4440dd502983) | ![Image](https://github.com/user-attachments/assets/0f1770bc-45aa-4663-8a97-b45ba0944e23) |
 <!--Descripción breve del proyecto. Explica qué problema se aborda, el objetivo principal y el enfoque general del proyecto.-->
 
 **Contexto del proyecto:** *`Académico / Prototipo`*
@@ -53,6 +54,12 @@ Máquina operada por CNC diseñada para dispensar pasta de soldadura en componen
 - `Sistema de acoples magnéticos` que permite cambiar herramientas y fijar la pieza a la cama de la máquina de forma sencilla.
 - Estructura de la máquina diseñada para ser fabricada fácilmente mediante `máquinas CNC`, construida en `MDF` (Trupan).
 
+| **Programa para controlar la máquina** | **Programa para evaluar dispensación** |
+|----------------------|----------------------|
+| ![Image](https://github.com/user-attachments/assets/9f21b68c-d6fe-499b-b92e-515b5352b938) | ![Demo](https://github.com/user-attachments/assets/38f1c3f6-f83a-4c5d-9b13-c4e64cad4cbb) |
+| **Sistema de acople y ajuste de pieza** | **Diseño de estructura SolidWorks** |
+|----------------------|----------------------|
+| ![Image](https://github.com/user-attachments/assets/b872a45f-212b-4246-a57f-112f7aa80343) | ![Image](https://github.com/user-attachments/assets/25a6f671-77ed-456b-bbb7-8bec12b40010) |
 <!--
 Para software → Funciones principales
 Para mecánica/mantenimiento → Alcances del proyecto o Características principales
@@ -97,9 +104,7 @@ En proyectos mecánicos/mantenimiento → pasos de implementación, pruebas o pu
 - Desarrollar un sistema de visión artificial que reconozca los puntos de dispensación y las pistas SMT de la PCB, facilitando la validación de la calidad de la dispensación.
 
 ## Video de Demostración
-| **Demo del proyecto** | **Demo del proyecto** |
-|----------------------|----------------------|
-| ![Demo](https://github.com/user-attachments/assets/38f1c3f6-f83a-4c5d-9b13-c4e64cad4cbb) | ![Demo](https://github.com/user-attachments/assets/38f1c3f6-f83a-4c5d-9b13-c4e64cad4cbb) |
+
 | **Demo del proyecto** | **Demo del proyecto** |
 | ![Demo](https://github.com/user-attachments/assets/38f1c3f6-f83a-4c5d-9b13-c4e64cad4cbb) | ![Demo](https://github.com/user-attachments/assets/38f1c3f6-f83a-4c5d-9b13-c4e64cad4cbb) |
 
