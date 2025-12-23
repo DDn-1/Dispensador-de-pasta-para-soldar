@@ -108,5 +108,7 @@ En proyectos mecánicos/mantenimiento → pasos de implementación, pruebas o pu
 - Desarrollar un sistema de visión artificial que reconozca los puntos de dispensación y las pistas SMT de la PCB, facilitando la validación de la calidad de la dispensación.
 
 ## Video de Demostración
+https://github.com/user-attachments/assets/f66b35d1-3fd2-4976-82fa-2fc038757aa3
+https://github.com/user-attachments/assets/33c037eb-f58e-4046-8bf3-51b3b106406c
+https://github.com/user-attachments/assets/b2c5a6f0-287d-4e55-9396-5f54f381ed06
 
-https://github.com/user-attachments/assets/091bbe88-7f74-4cc7-932c-f22ed30cf583
